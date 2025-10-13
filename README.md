@@ -28,7 +28,9 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabiling strategic decision-making.
 ---
 #### Data Architecture for the data warehouse building: 
-![Data Architecture Diagram] (https://github.com/NitroNatarajan/sql_data_warehouse_project/blob/main/docs/Architecture_datawarehouse.png)
+
+![Data Architecture Diagram](https://github.com/NitroNatarajan/sql_data_warehouse_project/blob/main/docs/Architecture_datawarehouse.png)
+
 --- 
 ## 🪪 License
 This project is licenced under the [MIT License](License). You are free to use, modify and share this project with proper attribution. 
