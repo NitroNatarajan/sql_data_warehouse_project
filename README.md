@@ -24,8 +24,8 @@ Develop SQL-based analytics to deliver detailed insights into:
   - **Customer Bbehaviour**
   - **Product Pperformance**
 	- **Sales Trends**
-
 These insights empower stakeholders with key business metrics, enabiling strategic decision-making.
+
 ---
 #### Data Architecture for the data warehouse building: 
 
