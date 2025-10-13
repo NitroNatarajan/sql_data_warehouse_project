@@ -33,6 +33,46 @@ Develop SQL-based analytics to deliver detailed insights into:
 ![Data Architecture Diagram](https://github.com/NitroNatarajan/sql_data_warehouse_project/blob/main/docs/Architecture_datawarehouse.png)
 
 --- 
+#### Folder Structure:
+```
+└── 📁sql_data_warehouse_project
+    └── 📁datasets
+        └── 📁source_crm
+            ├── cust_info.csv
+            ├── prd_info.csv
+            ├── sales_details.csv
+        └── 📁source_erp
+            ├── CUST_AZ12.csv
+            ├── LOC_A101.csv
+            ├── PX_CAT_G1V2.csv
+    └── 📁docs
+        ├── .$Data_model_gold_layer.drawio.bkp
+        ├── Architecture_datawarehouse.drawio
+        ├── Architecture_datawarehouse.png
+        ├── Data modelling diagram.drawio
+        ├── Data modelling diagram.png
+        ├── data_flow_diagram.drawio
+        ├── data_flow_diagram.png
+        ├── Data_model_gold_layer.drawio
+        ├── Data_model_gold_layer.png
+    └── 📁scripts
+        └── 📁bronze
+            ├── ddl_bronze.sql
+            ├── proc_load_bronze.sql
+        └── 📁gold
+            ├── ddl_gold.sql
+        └── 📁silver
+            ├── ddl_silver.sql
+            ├── proc_load_silver.sql
+        ├── init_database.sql
+    └── 📁tests
+        ├── data_validation_on_silver_layer.sql
+        ├── quality_check_gold.sql
+        ├── quality_checks_on_bronze_data.sql
+    ├── LICENSE
+    └── README.md
+```
+---
 ## 🪪 License
 This project is licenced under the [MIT License](License). You are free to use, modify and share this project with proper attribution. 
 
