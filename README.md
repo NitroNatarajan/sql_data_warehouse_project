@@ -33,7 +33,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 ![Data Architecture Diagram](https://github.com/NitroNatarajan/sql_data_warehouse_project/blob/main/docs/Architecture_datawarehouse.png)
 
 --- 
-#### Folder Structure:
+#### Repository Structure:
 ```
 └── 📁sql_data_warehouse_project
     └── 📁datasets
