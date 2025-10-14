@@ -82,6 +82,11 @@ Develop SQL-based analytics to deliver detailed insights into:
     └── README.md
 ```
 ---
+#### Notion Page for the project management: 
+
+[SQL Project Management Notion page](https://www.notion.so/SQL-Data-Warehouse-Project-28355959322280679723f28ed58098f0)
+
+---
 ## 🪪 License
 This project is licenced under the [MIT License](License). You are free to use, modify and share this project with proper attribution. 
 
