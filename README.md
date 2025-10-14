@@ -1,6 +1,7 @@
 # SQL_Data warehouse and SQL Data Analytics Project 
 
-Welcome to the **Data Warehouse and Analytics Project** repository! 🚀💥
+Welcome to the **Data Warehouse and Analytics Project** repository! 🚀💥.
+
 This project demonstartes a comprehensive data warehouse and analytics solution, from building a data warehouse to genarating actonable insights. And this is portfolio project highlights industry best practices in dataengineering and analytics.
 
 ---
