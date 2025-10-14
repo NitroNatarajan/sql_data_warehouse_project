@@ -33,6 +33,14 @@ Develop SQL-based analytics to deliver detailed insights into:
 ![Data Architecture Diagram](https://github.com/NitroNatarajan/sql_data_warehouse_project/blob/main/docs/Architecture_datawarehouse.png)
 
 --- 
+#### Data Flow diagram: 
+
+![Data Flow Diagram](https://github.com/NitroNatarajan/sql_data_warehouse_project/blob/main/docs/data_flow_diagram.png)
+---
+#### Gold Layer data model diagram: 
+
+![Gold Layer Data Model](https://github.com/NitroNatarajan/sql_data_warehouse_project/blob/main/docs/Data_model_gold_layer.png)
+---
 #### Repository Structure:
 ```
 └── 📁sql_data_warehouse_project
@@ -42,9 +50,9 @@ Develop SQL-based analytics to deliver detailed insights into:
             ├── prd_info.csv
             ├── sales_details.csv
         └── 📁source_erp
-            ├── CUST_AZ12.csv
-            ├── LOC_A101.csv
-            ├── PX_CAT_G1V2.csv
+            ├── cust_az12.csv
+            ├── loc_a101.csv
+            ├── px_cat_g1v2.csv
     └── 📁docs
         ├── .$Data_model_gold_layer.drawio.bkp
         ├── Architecture_datawarehouse.drawio
