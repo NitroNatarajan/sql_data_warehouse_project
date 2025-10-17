@@ -1,4 +1,4 @@
-# SQL_Data warehouse and SQL Data Analytics Project 
+# SQL_Data warehousing , SQL_EDA and Advanced SQL_Data Analytics Project 🌼😁
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀💥.
 
@@ -88,7 +88,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 ---
 ## 🪪 License
-This project is licenced under the [MIT License](License). You are free to use, modify and share this project with proper attribution. 
+This project is licensed under the [MIT License](License). You are free to use, modify and share this project with proper attribution. 
 
 ## 📔 About me 💥
 I'm **Natarajan Thanaraj**, aspiring data professional who is learning the data management and data analytics practices. 
