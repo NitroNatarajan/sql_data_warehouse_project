@@ -2,7 +2,7 @@
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀💥.
 
-This project demonstartes a comprehensive data warehouse and analytics solution, from building a data warehouse to genarating actonable insights. And this is portfolio project highlights industry best practices in dataengineering and analytics.
+This project demonstartes a comprehensive data warehouse and analytics solution, from building a data warehouse to genarating actonable insights. And this is portfolio project highlights industry best practices in data engineering and analytics.
 
 ---
 ### Project Requirements
@@ -91,4 +91,4 @@ Develop SQL-based analytics to deliver detailed insights into:
 This project is licensed under the [MIT License](License). You are free to use, modify and share this project with proper attribution. 
 
 ## 📔 About me 💥
-I'm **Natarajan Thanaraj**, aspiring data professional who is learning the data management and data analytics practices. 
+I'm **Natarajan Thanaraj **, aspiring data professional who is learning the data management and data analytics practices. 
